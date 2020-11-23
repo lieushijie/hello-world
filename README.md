@@ -8,7 +8,7 @@ But I am hoping to pick up the necessary knowledge and to get a job with this sk
 - [ ] try to create an unchecked box
 
 
-git clone git@github.com:<your_github_username>/coding-interview-university.git
+git clone git@github.com:<lieushijie>/coding-interview-university.git
 git checkout -b progress
 git remote add jwasham https://github.com/jwasham/coding-interview-university
 git fetch --all
